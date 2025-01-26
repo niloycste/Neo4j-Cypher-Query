@@ -2,6 +2,7 @@
 This dataset is well-structured for creating a Neo4j graph database representing players, teams, coaches, and games. It establishes relationships such as teammates, coaching, plays-for, and played-against, making it rich for queries. Here are some potential insights and tasks you can derive from this dataset:
 ## Key Queries
 
+    
     1. Player Information
         Retrieve details of a specific player, like LeBron James.
         Query all players older than 30 or taller than 2 meters.

@@ -26,11 +26,11 @@ This dataset is well-structured for creating a Neo4j graph database representing
 
 we plan to extend this dataset or analyze it further:
 
-   1. Add More Relationships
+   # Add More Relationships
         Include ASSISTS and FOULS for richer game stats.
         Add relationships like HAS_AWARDED for MVPs or other accolades.
 
-   2. Graph Algorithms
+  # Graph Algorithms
         Use centrality algorithms are used to determine the importance of distinct nodes in a network
         Use graph algorithms like PageRank to identify influential players in the league.
         Use community detection to find clusters of players based on shared attributes or game stats.
